@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Auric Smiles Dental Clinic" />
         <p className="description">
-          Coming Soon!</code>
+          <code>Coming Soon!</code>
         </p>
       </main>
 
