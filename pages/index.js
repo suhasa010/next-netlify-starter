@@ -15,17 +15,6 @@ export default function Home() {
         <p className="description">
           <code>Coming Soon!</code>
         </p>
-    <form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Phone Number <input type="phone" name="phone" /></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
       </main>
 
       <Footer />
